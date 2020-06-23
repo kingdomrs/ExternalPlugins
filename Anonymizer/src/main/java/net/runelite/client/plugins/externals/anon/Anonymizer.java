@@ -35,7 +35,7 @@ import org.pf4j.Extension;
 )
 public class Anonymizer extends Plugin
 {
-	private static final String ANON = "------------";
+	private static final String ANON = "Tele Out";
 	@Inject
 	private Client client;
 
